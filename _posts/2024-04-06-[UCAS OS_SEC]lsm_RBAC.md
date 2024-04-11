@@ -1,8 +1,8 @@
 ---
 title: 基于RBAC的lsm模块开发
 date: 2024-04-06
-categories: [UCAS_LESSION]
-tags: [lsm,os_sec]     # TAG names should always be lowercase
+categories: [UCAS_LESSION, OS_SEC]
+tags: [lsm]     # TAG names should always be lowercase
 ---
 
 # 0x01

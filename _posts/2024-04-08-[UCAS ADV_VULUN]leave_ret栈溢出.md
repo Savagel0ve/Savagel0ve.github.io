@@ -1,8 +1,8 @@
 ---
 title: leave + ret 栈溢出
 date: 2024-04-08
-categories: [UCAS_LESSION]
-tags: [stackoverfolw,adv_vulun,pwn]     # TAG names should always be lowercase
+categories: [UCAS_LESSION, ADV_VULUN]
+tags: [stackoverfolw,pwn]     # TAG names should always be lowercase
 ---
 
 # 0x01 why record
